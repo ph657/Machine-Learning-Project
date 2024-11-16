@@ -1,2 +1,9 @@
 # Machine-Learning-Project
-This is a Machine learning project based on the Hospital Treatment package pricing . This analyzes hospital treatment prices by preprocessing the data, feature selection , and training and testing different models. Finally concluded that Random Forest model gives the most accurate prediction.
+This repository contains a machine learning project aimed at predicting optimal pricing for hospital treatment packages based on patient demographics, medical history, and treatment-related factors. The project uses multiple machine learning models and compares their performances to analyze the most useful and robust pricing solution.
+Healthcare pricing is a critical challenge that involves many challenges like balancing the affordability for patients. This project uses concepts of machine learning to predict treatment package prices by analyzing patient medical history , diseases , hospital cost , infra cost etc.The goal is to develop a reliable, accurate and efficient model that can assist healthcare administrators in making informed pricing decisions.
+Project Highlights: 
+  Data Preprocessing: Handled missing values, scaled numerical features, and prepared the data without any defects for machine learning.
+  Model Training: Built and trained multiple machine learning models, with Random Forest outperforming others due to its robustness and ability to handle complex feature interactions.
+  Performance Comparison: Conducted comparison of model performances, so that it is better to analyze the best models amongst all the trained models.
+Results: Random Forest achieved the highest accuracy, making it the most reliable model for predicting treatment package prices.The analysis of feature importance provides transparency in decision-making, identifying key attributes like age, BMI, and medical history.
+Conclusion: This project uses power of machine learning in solving critical challenges in the healthcare pricing. By using Random Forest and other models, it creates a scalable solution for predicting treatment package pricing with accuracy, robustness, and interpretability.
